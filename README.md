@@ -1,5 +1,5 @@
 # Antibiotic-DNA-resistant-sequence
-In this notebook, you’ll have a machine learning model for predicting antibiotic resistance in bacteria.
+In this project, you’ll have a machine learning model for predicting antibiotic resistance in bacteria.
 I will be focussing on a species called Neisseria gonorrhoeae, the bacteria which cause gonorrhoea. Gonorrhoea is the second most common sexually transmitted infection (STI) in Europe, after chlamydia. Rates of gonorrhoea infection are on the rise, with a 26% increase reported from 2017-2018 in the UK.
 Many people who are infected (especially women) experience no symptoms, helping the disease to spread. If the infection is left untreated, it can lead to infertility in women, and can occasionally spread to other parts of the body such as your joints, heart valves, brain or spinal cord.
 Resistance of these bacteria to antibiotics is rising over time, making infections hard to treat. Below, you can see rates of resistance to different antibiotics. 
